@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NemPhoneticDistance", "NemPhoneticDistance\NemPhoneticDistance.csproj", "{3F03C4C4-1247-4E23-9F9C-86A358E65E1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F03C4C4-1247-4E23-9F9C-86A358E65E1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F03C4C4-1247-4E23-9F9C-86A358E65E1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F03C4C4-1247-4E23-9F9C-86A358E65E1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F03C4C4-1247-4E23-9F9C-86A358E65E1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BDBE5E9-63C3-4EF7-81A4-9CD1E40A9656}
+	EndGlobalSection
+EndGlobal
